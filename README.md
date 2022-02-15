@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Luminaeion
+- 👋🏻 Hi, I’m @Luminaeion
 - 👀 I’m interested in creating things myself.
-- 🌱 I’m currently learning PHP, HTML, CSS, SQL
+- 🌱 I’m currently learning PHP, HTML, CSS, SQL, C#
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-->
 
